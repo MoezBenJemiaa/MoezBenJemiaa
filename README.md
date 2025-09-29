@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Moez Ben Jemiaa  
 
-<!--
-**MoezBenJemiaa/MoezBenJemiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀  
+I’m passionate about software development, problem-solving, and building creative projects.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact Me  
+
+- 📧 **Email:** [moezbj27@gmail.com](mailto:moezbj27@gmail.com)  
+- 💼 **LinkedIn:** [Moez Ben Jemiaa](https://www.linkedin.com/in/moez-ben-jemiaa-261780387)  
+- 📱 **Phone:** +216 25 607 937  
+
+---
+
+⭐ Feel free to check out my repositories and connect with me!  
