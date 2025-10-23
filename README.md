@@ -1,4 +1,4 @@
-[Watch the MP4](./demo.mp4)
+![Demo](./demo.gif)
 # 👋 Hi, I'm Moez Ben Jemiaa  
 
 Welcome to my GitHub profile! 🚀  
