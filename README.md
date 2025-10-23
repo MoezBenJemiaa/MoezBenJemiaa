@@ -1,4 +1,4 @@
-<video controls src="demo.gif"></video>
+[Watch the MP4](./demo.mp4)
 # 👋 Hi, I'm Moez Ben Jemiaa  
 
 Welcome to my GitHub profile! 🚀  
