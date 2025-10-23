@@ -1,4 +1,3 @@
-![Demo](demo.gif)
 # 👋 Hi, I'm Moez Ben Jemiaa  
 
 Welcome to my GitHub profile! 🚀  
@@ -15,3 +14,5 @@ I’m passionate about software development, problem-solving, and building creat
 ---
 
 ⭐ Feel free to check out my repositories and connect with me!  
+
+![Demo](demo.gif)
