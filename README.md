@@ -1,5 +1,4 @@
-<img width="3172" height="790" alt="Moez Ben Jemiaa-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/796ffacc-39d8-42d8-9494-9d69725e29d5" />
-
+<video controls src="demo.gif"></video>
 # 👋 Hi, I'm Moez Ben Jemiaa  
 
 Welcome to my GitHub profile! 🚀  
