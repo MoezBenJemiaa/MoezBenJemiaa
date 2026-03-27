@@ -40,15 +40,7 @@ I’m passionate about software development, problem-solving, and building creat
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoezBenJemiaa)
 
 </div>
----
 
-<div align="center">
-
-![Moez's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoezBenJemiaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MoezBenJemiaa&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/MoezBenJemiaa)
-
-</div>
 
 <div align="center">
 
