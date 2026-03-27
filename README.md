@@ -1,6 +1,5 @@
-<img width="3172" height="790" alt="Moez Ben Jemiaa-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/1c769307-95fe-4c0b-a99a-e11b31bb1bf8" />
 <img width="3172" height="790" alt="Moez Ben Jemiaa-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/e3ee0355-d367-4532-a982-e45935f81e90" />
-![DSC_0056](https://github.com/user-attachments/assets/e3ee0355-d367-4532-a982-e45935f81e90)
+
 
 # 👋 Hi, I'm Moez Ben Jemiaa  
 
